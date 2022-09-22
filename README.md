@@ -1,3 +1,3 @@
 # Location
 
-A flutter project to acess loaction and its other function.
+A flutter project to access location and its other functions.
